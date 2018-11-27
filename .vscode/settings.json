@@ -3,6 +3,7 @@
         "if_ether.h": "c",
         "string.h": "c",
         "stdlib.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "inet.h": "c"
     }
 }
